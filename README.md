@@ -18,3 +18,5 @@ For an _awesome_ list of TALL resources, check  [https://github.com/blade-ui-kit
 {% embed url="https://github.com/tanthammar/tall-forms" %}
 
 {% embed url="https://github.com/MedicOneSystems/livewire-datatables" %}
+
+{% embed url="https://github.com/robsontenorio/mary" %}
